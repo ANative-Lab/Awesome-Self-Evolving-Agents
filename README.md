@@ -388,6 +388,7 @@ language model multi-agent framework [[📝 Paper](https://dl.acm.org/doi/10.100
  [[📝 Paper](https://www.arxiv.org/abs/2509.13345) ]
 - (*ICLR'25 Spotlight*) AutoDAN-Turbo: A Lifelong Agent for Strategy Self-Exploration to Jailbreak LLMs [[📝 Paper](https://arxiv.org/abs/2410.05295)] [[💻 Code](https://github.com/SaFoLab-WISC/AutoDAN-Turbo)]
 - (*ACL'25*) AGrail: A Lifelong Agent Guardrail with Effective and Adaptive Safety Detection [[📝 Paper](https://arxiv.org/abs/2502.11448)] [[💻 Code](https://github.com/SaFoLab-WISC/AGrail4Agent)]
+- (*Arxiv'26*) Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses [[📝 Paper](https://arxiv.org/abs/2605.02900)] [[💻 Code](https://github.com/x-zheng16/Awesome-Embodied-AI-Safety)] [[🌍 Webpage](https://x-zheng16.github.io/Awesome-Embodied-AI-Safety/)]
 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=EvoAgentX/Awesome-Self-Evolving-Agents&Date&type=Date)](https://www.star-history.com/#EvoAgentX/Awesome-Self-Evolving-Agents&Date&Date)
