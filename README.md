@@ -237,35 +237,34 @@
 - (*Arxiv’25*) Agent KB: Leveraging Cross‑Domain Experience for Agentic Problem Solving [[📝 Paper](https://arxiv.org/abs/2507.06229)] [[💻 Code](https://github.com/OPPO-PersonalAI/Agent-KB)]
 
 
-## 3. Domain-Specific Optimisation 
+## 3. Domain-Specific Optimisation
 
-### 3.1 🧬 Biomedicine 
+### 3.1 🧬 Biomedicine
 
-#### 3.1.1 📌 Medical Diagnosis 
+#### 3.1.1 📌 Medical Diagnosis
 
-- (*EMNLP'24*) MMedAgent: Learning to Use Medical Tools with Multi-modal Agent [[📝 Paper](https://arxiv.org/abs/2407.02483)] [[💻 Code](https://github.com/Wangyixinxin/MMedAgent)]
-- (*NeurIPS'24*) MDAgents: An Adaptive Collaboration of LLMs for Medical Decision-Making [[📝 Paper](https://arxiv.org/abs/2404.15155)] [[💻 Code](https://github.com/mitmedialab/MDAgents)]
-- (*Arxiv'25*) HealthFlow: A Self-Evolving AI Agent with Meta Planning for Autonomous Healthcare Research [[📝 Paper](https://arxiv.org/pdf/2508.02621)][[💻 Code](https://github.com/yhzhu99/HealthFlow)]
-- (*Arxiv'25*) STELLA: Self-Evolving LLM Agent for Biomedical Research [[📝 Paper](https://arxiv.org/abs/2507.02004)][[💻 Code](https://github.com/zaixizhang/STELLA)]
-- (*MICCAI'25*) MedAgentSim: Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions [[📝 Paper](https://arxiv.org/pdf/2503.22678)] [[💻 Code](https://github.com/MAXNORM8650/MedAgentSim)]
-- (*Arxiv'25*) PathFinder: A Multi-Modal Multi-Agent System
-for Medical Diagnostic Decision-Making Applied to Histopathology <br> [[📝 Paper](https://arxiv.org/pdf/2502.08916)]
-- (*Arxiv'25*) MDTeamGPT: A Self-Evolving LLM-based Multi-Agent Framework for Multi-Disciplinary Team Medical Consultation <br> [[📝 Paper](https://arxiv.org/abs/2503.13856)] [[💻 Code](https://github.com/KaiChenNJ/MDTeamGPT)]
-- (*Arxiv'25*) MedAgent-Pro: Towards Evidence-based Multi-modal
-Medical Diagnosis via Reasoning Agentic Workflow <br> [[📝 Paper](https://arxiv.org/pdf/2503.18968)] [[💻 Code](https://github.com/jinlab-imvr/MedAgent-Pro)]
-- (*Arxiv'25*) Structural Entropy Guided Agent for Detecting and Repairing Knowledge Deficiencies in LLMs [[📝 Paper](https://arxiv.org/abs/2505.07184)] [[💻 Code](https://github.com/weiyifan1023/senator)]
+* (*EMNLP'24*) MMedAgent: Learning to Use Medical Tools with Multi-modal Agent [[📝 Paper](https://arxiv.org/abs/2407.02483)] [[💻 Code](https://github.com/Wangyixinxin/MMedAgent)]
+* (*NeurIPS'24*) MDAgents: An Adaptive Collaboration of LLMs for Medical Decision-Making [[📝 Paper](https://arxiv.org/abs/2404.15155)] [[💻 Code](https://github.com/mitmedialab/MDAgents)]
+* (*Arxiv'25*) HealthFlow: A Self-Evolving AI Agent with Meta Planning for Autonomous Healthcare Research [[📝 Paper](https://arxiv.org/pdf/2508.02621)][[💻 Code](https://github.com/yhzhu99/HealthFlow)]
+* (*Arxiv'25*) STELLA: Self-Evolving LLM Agent for Biomedical Research [[📝 Paper](https://arxiv.org/abs/2507.02004)][[💻 Code](https://github.com/zaixizhang/STELLA)]
+* (*MICCAI'25*) MedAgentSim: Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions [[📝 Paper](https://arxiv.org/pdf/2503.22678)] [[💻 Code](https://github.com/MAXNORM8650/MedAgentSim)]
+* (*Arxiv'25*) PathFinder: A Multi-Modal Multi-Agent System for Medical Diagnostic Decision-Making Applied to Histopathology <br> [[📝 Paper](https://arxiv.org/pdf/2502.08916)]
+* (*Arxiv'25*) MDTeamGPT: A Self-Evolving LLM-based Multi-Agent Framework for Multi-Disciplinary Team Medical Consultation <br> [[📝 Paper](https://arxiv.org/abs/2503.13856)] [[💻 Code](https://github.com/KaiChenNJ/MDTeamGPT)]
+* (*Arxiv'25*) MedAgent-Pro: Towards Evidence-based Multi-modal Medical Diagnosis via Reasoning Agentic Workflow <br> [[📝 Paper](https://arxiv.org/pdf/2503.18968)] [[💻 Code](https://github.com/jinlab-imvr/MedAgent-Pro)]
+* (*Arxiv'25*) Structural Entropy Guided Agent for Detecting and Repairing Knowledge Deficiencies in LLMs [[📝 Paper](https://arxiv.org/abs/2505.07184)] [[💻 Code](https://github.com/weiyifan1023/senator)]
+* (*BioRxiv'25*) OriGene: A Self-Evolving Virtual Disease Biologist Automating Therapeutic Target Discovery [[📝 Paper](https://www.biorxiv.org/content/10.1101/2025.06.03.657658v1)]
 
+#### 3.1.2 📌  Molecular Discovery
 
-#### 3.1.2 📌  Molecular Discovery 
-
-- (*ACS omega'24*) CACTUS: Chemistry Agent Connecting Tool-Usage to Science [[📝 Paper](https://arxiv.org/abs/2405.00972)] [[💻 Code](https://github.com/pnnl/cactus)]
-- (*NMI'24*) ChemCrow: Augmenting large language models with chemistry tools [[📝 Paper](https://arxiv.org/abs/2304.05376)] [[💻 Code](https://github.com/ur-whitelab/chemcrow-public)]
-- (*ICLR'25*) ChemAgent: Self-updating Library in Large Language Models Improves Chemical Reasoning[[📝 Paper](https://arxiv.org/abs/2501.06590)] [[💻 Code](https://github.com/gersteinlab/ChemAgent)]
-- (*ICLR'25*) OSDA Agent: Leveraging Large Language Models for De Novo Design of Organic Structure Directing Agents [[📝 Paper](https://openreview.net/forum?id=9YNyiCJE3k)]
-- (*Arxiv'25*) DrugAgent: Automating AI-aided Drug Discovery Programming through
-LLM Multi-Agent Collaboration [[📝 Paper](https://arxiv.org/pdf/2411.15692)]
-- (*Arxiv'25*) LIDDIA: Language-based Intelligent Drug Discovery Agent [[📝 Paper](https://arxiv.org/abs/2502.13959)]
-- (*Arxiv'25*) GenoMAS: A Multi-Agent Framework for Scientific Discovery via Code-Driven Gene Expression Analysis <br> [[📝 Paper](https://arxiv.org/abs/2507.21035)] [[💻 Code](https://github.com/Liu-Hy/GenoMAS)]
+* (*ACS omega'24*) CACTUS: Chemistry Agent Connecting Tool-Usage to Science [[📝 Paper](https://arxiv.org/abs/2405.00972)] [[💻 Code](https://github.com/pnnl/cactus)]
+* (*NMI'24*) ChemCrow: Augmenting large language models with chemistry tools [[📝 Paper](https://arxiv.org/abs/2304.05376)] [[💻 Code](https://github.com/ur-whitelab/chemcrow-public)]
+* (*ICLR'25*) ChemAgent: Self-updating Library in Large Language Models Improves Chemical Reasoning[[📝 Paper](https://arxiv.org/abs/2501.06590)] [[💻 Code](https://github.com/gersteinlab/ChemAgent)]
+* (*ICLR'25*) OSDA Agent: Leveraging Large Language Models for De Novo Design of Organic Structure Directing Agents [[📝 Paper](https://openreview.net/forum?id=9YNyiCJE3k)]
+* (*Arxiv'25*) DrugAgent: Automating AI-aided Drug Discovery Programming through LLM Multi-Agent Collaboration [[📝 Paper](https://arxiv.org/pdf/2411.15692)]
+* (*Arxiv'25*) LIDDIA: Language-based Intelligent Drug Discovery Agent [[📝 Paper](https://arxiv.org/abs/2502.13959)]
+* (*Arxiv'25*) GenoMAS: A Multi-Agent Framework for Scientific Discovery via Code-Driven Gene Expression Analysis <br> [[📝 Paper](https://arxiv.org/abs/2507.21035)] [[💻 Code](https://github.com/Liu-Hy/GenoMAS)]
+* (*Arxiv'26*) DrugSAGE: Self-evolving Agent Experience for Efficient State-of-the-Art Drug Discovery [[📝 Paper](https://arxiv.org/abs/2605.15461)]
+* (*Arxiv'26*) S1-NexusAgent: a Self-Evolving Agent Framework for Multidisciplinary Scientific Research [[📝 Paper](https://arxiv.org/abs/2602.01550)]
 
 ### 3.2 💻 Programming
 
