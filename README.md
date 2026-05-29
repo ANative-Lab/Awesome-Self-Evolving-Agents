@@ -389,6 +389,11 @@ language model multi-agent framework [[📝 Paper](https://dl.acm.org/doi/10.100
 - (*ICLR'25 Spotlight*) AutoDAN-Turbo: A Lifelong Agent for Strategy Self-Exploration to Jailbreak LLMs [[📝 Paper](https://arxiv.org/abs/2410.05295)] [[💻 Code](https://github.com/SaFoLab-WISC/AutoDAN-Turbo)]
 - (*ACL'25*) AGrail: A Lifelong Agent Guardrail with Effective and Adaptive Safety Detection [[📝 Paper](https://arxiv.org/abs/2502.11448)] [[💻 Code](https://github.com/SaFoLab-WISC/AGrail4Agent)]
 
+### 4.4 🧪 Empirical Analysis and Ablation Studies
+
+- (*ICML'26*) Towards Feedback-to-Plan Decisions for Self-Evolving LLM Agents in CUDA Kernel Generation
+ [[📝 Paper](https://arxiv.org/abs/2605.26720)] [[💻 Code](https://github.com/yuxuan-z19/cudanalyst)]
+
 
 [![Star History Chart](https://api.star-history.com/svg?repos=EvoAgentX/Awesome-Self-Evolving-Agents&Date&type=Date)](https://www.star-history.com/#EvoAgentX/Awesome-Self-Evolving-Agents&Date&Date)
 
