@@ -110,6 +110,7 @@
 - (*ICLR'24*) EvoPrompt: Connecting LLMs with Evolutionary Algorithms Yields Powerful Prompt Optimizers [[📝 Paper](https://arxiv.org/abs/2309.08532)] [[💻 Code](https://github.com/beeevita/EvoPrompt)]
 - (*ICML'24*) Promptbreeder: Self-Referential Self-Improvement Via Prompt Evolution [[📝 Paper](https://arxiv.org/abs/2309.16797)]
 - (*Arxiv'25*) GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning [[📝 Paper](https://arxiv.org/abs/2507.19457)]
+- (*EMNLP'25*) Implicit Behavioral Alignment of Language Agents in High-Stakes Crowd Simulations [[📝 Paper](https://arxiv.org/abs/2509.16457)]
 
 #### 1.2.3 📌 Generative Prompt Optimisation 
 - (*ICLR'23*) Large Language Models Are Human-Level Prompt Engineers [[📝 Paper](https://arxiv.org/abs/2211.01910)] [[💻 Code](https://github.com/keirp/automatic_prompt_engineer)]
