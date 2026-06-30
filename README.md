@@ -69,6 +69,7 @@
 - (*Arxiv'25*) Parallel-R1: Towards Parallel Thinking via Reinforcement Learning [[📝 Paper](https://arxiv.org/abs/2509.07980)] [[💻 Code](https://github.com/zhengkid/Parallel-R1)]
 - (*Arxiv'25*) SSRL: Self-Search Reinforcement Learning [[📝 Paper](https://arxiv.org/abs/2508.10874)] [[💻 Code](https://github.com/TsinghuaC3I/SSRL)]
 - (*Arxiv'25*) SeRL: Self-Play Reinforcement Learning for Large Language Models with Limited Data [[📝 Paper](https://arxiv.org/abs/2505.20347)] [[💻 Code](https://github.com/wantbook-book/SeRL)]
+- (*ECCV'26*) SyncLoop: A Multimodal Dual-Loop Framework for Self-Improving Mathematical Reasoning [[📝 Paper](https://arxiv.org/html/2507.16518v3)]
 
 
 #### 1.1.2 📌 Test-Time Behaviour Optimisation 
