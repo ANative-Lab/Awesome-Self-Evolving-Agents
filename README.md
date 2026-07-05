@@ -416,3 +416,5 @@ We would like to thank Shuyu Guo for his valuable contributions to the early-sta
 If you have any questions or suggestions, please feel free to contact us via:
 
 Email: j.fang.2@research.gla.ac.uk and zaiqiao.meng@gmail.com
+
+- **[Context Kit](https://github.com/JDDavenport/context-kit)** — Personal Context Artifacts: 4 Markdown templates (wiki, mental-models, voice, protocols) + 5 Claude Code skills. Solves context amnesia — every session starts context-full. MIT, one-command install.
