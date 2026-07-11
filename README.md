@@ -292,6 +292,7 @@ LLM Multi-Agent Collaboration [[📝 Paper](https://arxiv.org/pdf/2411.15692)]
 
 ### 3.3 Scientific Research 
 - (*Arxiv’25*) PiFlow: Principle‑aware Scientific Discovery with Multi‑Agent Collaboration [[📝 Paper](https://arxiv.org/abs/2505.15047)] [[💻 Code](https://github.com/amair-lab/PiFlow)]
+- (*Arxiv'26*) Agon: An Autonomous Large-Scale Omnidisciplinary Research System Built on Prompt Economy [[📝 Paper](https://arxiv.org/abs/2606.24177)] [[💻 Code](https://github.com/AutoResearch-Factory/Agon)]
 
 
 ### 3.4 💰📚 Financial and Legal Research 
@@ -356,6 +357,7 @@ language model multi-agent framework [[📝 Paper](https://dl.acm.org/doi/10.100
 - (*ICLR'24*) AgentBench: Evaluating LLMs as Agents [[📝 Paper](https://arxiv.org/abs/2308.03688)] [[💻 Code](https://github.com/THUDM/AgentBench)]
 - (*Arxiv'25*) MultiAgentBench: Evaluating the Collaboration and Competition of LLM agents [[📝 Paper](https://arxiv.org/abs/2503.01935)] [[💻 Code](https://github.com/MultiagentBench/MARBLE)]
 - (*Arxiv'25*) Benchmarking LLMs' Swarm intelligence [[📝 Paper](https://arxiv.org/abs/2505.04364)] [[💻 Code](https://github.com/RUC-GSAI/YuLan-SwarmIntell)]
+- (*Arxiv'26*) PerspectiveGap: A Benchmark for Multi-Agent Orchestration Prompting [[📝 Paper](https://arxiv.org/abs/2606.08878)] [[💻 Code](https://github.com/WhymustIhaveaname/PerspectiveGap)]
 
 #### 4.1.5 📌 GUI and Multimodal Environment Agents
 - (*ACL'24*) Mobile-Bench: An Evaluation Benchmark for LLM-based Mobile Agents [[📝 Paper](https://arxiv.org/abs/2407.00993)] [[💻 Code](https://github.com/XiaoMi/MobileBench)]
