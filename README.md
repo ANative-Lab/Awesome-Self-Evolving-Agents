@@ -39,6 +39,7 @@
 - (*EMNLP'25 Demo*) **EvoAgentX**: An Automated Framework for Evolving Agentic Workflows
  [[💻 Code](https://github.com/EvoAgentX/EvoAgentX)] [[📝 Paper](https://arxiv.org/abs/2507.03616)]
 - (*Arxiv'25*) MASLab: A Unified and Comprehensive Codebase for LLM-based Multi-Agent Systems [[📝 Paper](https://arxiv.org/abs/2505.16988)] [[💻 Code](https://github.com/MASWorks/MASLab)]
+- **Hivemind**: An Open-Source Continual Learning Layer for Coding Agents that Distills Session Trajectories into Reusable, Human-Readable Skills Shared across Agents and Teams [[💻 Code](https://github.com/activeloopai/hivemind)]
 
 
 ## 1. Single-Agent Optimisation 
