@@ -343,6 +343,7 @@ language model multi-agent framework [[📝 Paper](https://dl.acm.org/doi/10.100
 - (*ICLR'24*) WebArena: A Realistic Web Environment for Building Autonomous Agents [[📝 Paper](https://arxiv.org/abs/2307.13854)] [[💻 Code](https://github.com/web-arena-x/webarena)]
 - (*Arxiv'25*) BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents [[📝 Paper](https://arxiv.org/abs/2504.12516)] [[💻 Code](https://github.com/openai/simple-evals)]
 - (*ACL'25*) WebWalker: Benchmarking LLMs in Web Traversal [[📝 Paper](https://arxiv.org/abs/2501.07572)] [[💻 Code](https://github.com/Alibaba-NLP/WebAgent)]
+- (*Arxiv'26*) ClawBench: Can AI Agents Complete Everyday Online Tasks? [[📝 Paper](https://arxiv.org/abs/2604.08523)] [[💻 Code](https://github.com/reacher-z/ClawBench)] [[🌐 Project](https://claw-bench.com/)]
 
 #### 4.1.3 📌 Coding Agents 
 - (*ICLR'24*) SWE-bench: Can Language Models Resolve Real-World GitHub Issues? [[📝 Paper](https://arxiv.org/abs/2310.06770)] [[💻 Code](https://github.com/SWE-bench/SWE-bench)]
