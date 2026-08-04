@@ -193,6 +193,7 @@
 - (*ICML'24*) Offline Training of Language Model Agents with Functions as Learnable Weights [[📝 Paper](https://arxiv.org/abs/2402.11359)]
 - (*CVPR'24*) CLOVA: A Closed-Loop Visual Assistant with Tool Usage and Update [[📝 Paper](https://arxiv.org/abs/2312.10908)] [[💻 Code](https://github.com/clova-tool/CLOVA-tool)]
 - (*Arxiv'25*) Alita: Generalist Agent Enabling Scalable Agentic Reasoning with Minimal Predefinition and Maximal Self-Evolution [[📝 Paper](https://arxiv.org/abs/2505.20286)] [[💻 Code](https://github.com/CharlesQ9/Alita)]
+- (*arxiv'26*) OpenSkill: Open-World Self-Evolution for LLM Agents [[📝 Paper]](https://arxiv.org/abs/2606.06741) [[💻 Code]](https://github.com/OpenLAIR/OpenSkill)
 
 
 ### 1.5 🧰 Unified Optimization
