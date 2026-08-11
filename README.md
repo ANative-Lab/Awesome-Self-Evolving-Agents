@@ -198,6 +198,7 @@
 ### 1.5 🧰 Unified Optimization
 - (*Arxiv'25*) Building Self-Evolving Agents via Experience-Driven Lifelong Learning: A Framework and Benchmark [[📝 Paper](https://arxiv.org/abs/2508.19005)] [[💻 Code](https://github.com/ECNU-ICALK/ELL-StuLife)]
 - (*Arxiv'25*) EvoAgent: Self-evolving Agent with Continual World Model for Long-Horizon Tasks [[📝 Paper](https://arxiv.org/abs/2502.05907)]
+- (*Arxiv'26*) Ouroboros: A Self-Developing Frontier Coding Agent with Reviewed Core Evolution [[📝 Paper](https://arxiv.org/abs/2608.08311)] [[💻 Code](https://github.com/razzant/ouroboros)]
 
 
 ## 2. Multi-Agent Optimisation 
