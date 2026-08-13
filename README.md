@@ -38,6 +38,7 @@
 ## Open-Source Framework
 - (*EMNLP'25 Demo*) **EvoAgentX**: An Automated Framework for Evolving Agentic Workflows
  [[💻 Code](https://github.com/EvoAgentX/EvoAgentX)] [[📝 Paper](https://arxiv.org/abs/2507.03616)]
+- (*KDD'26 Workshop*) **OpenProgram**: Self-Programming AI Agent Framework [[💻 Code](https://github.com/Fzkuji/OpenProgram)] [[📝 Paper](https://arxiv.org/abs/2606.15874)]
 - (*Arxiv'25*) MASLab: A Unified and Comprehensive Codebase for LLM-based Multi-Agent Systems [[📝 Paper](https://arxiv.org/abs/2505.16988)] [[💻 Code](https://github.com/MASWorks/MASLab)]
 
 
