@@ -39,6 +39,7 @@
 - (*EMNLP'25 Demo*) **EvoAgentX**: An Automated Framework for Evolving Agentic Workflows
  [[💻 Code](https://github.com/EvoAgentX/EvoAgentX)] [[📝 Paper](https://arxiv.org/abs/2507.03616)]
 - (*Arxiv'25*) MASLab: A Unified and Comprehensive Codebase for LLM-based Multi-Agent Systems [[📝 Paper](https://arxiv.org/abs/2505.16988)] [[💻 Code](https://github.com/MASWorks/MASLab)]
+- **EMRG**: A self-evolving AI agent architecture — micro-kernel core (LLM task router + tool dispatch) with a mandatory Prepare→Review→Discover→Improve→Submit→Record evolution cycle, dynamically grown capability patches, and regression-gated self-modification [[💻 Code](https://github.com/argszero/emrg)]
 
 
 ## 1. Single-Agent Optimisation 
