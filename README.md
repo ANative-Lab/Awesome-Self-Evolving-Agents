@@ -39,6 +39,7 @@
 - (*EMNLP'25 Demo*) **EvoAgentX**: An Automated Framework for Evolving Agentic Workflows
  [[💻 Code](https://github.com/EvoAgentX/EvoAgentX)] [[📝 Paper](https://arxiv.org/abs/2507.03616)]
 - (*Arxiv'25*) MASLab: A Unified and Comprehensive Codebase for LLM-based Multi-Agent Systems [[📝 Paper](https://arxiv.org/abs/2505.16988)] [[💻 Code](https://github.com/MASWorks/MASLab)]
+- (*2026*) **GoldenBough**: Infinite-Loop Self-Discovering Agent for Data→Pain-Point→Service-Proposal pipeline. 5-stage closed loop (Ingest→Filter→Transform→Emit→Feedback) with 12 domain bots (6 Korean + 6 Global) that auto-generate monetisable service proposals from public data. $0 stack (feedparser/requests/numpy), Apache-2.0, live GitHub Pages demo. [[💻 Code](https://github.com/mdpepastor3004/golden-bough)] [[🌐 Demo](https://mdpepastor3004.github.io/golden-bough/)]
 
 
 ## 1. Single-Agent Optimisation 
