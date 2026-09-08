@@ -71,6 +71,8 @@
 - (*Arxiv'25*) SeRL: Self-Play Reinforcement Learning for Large Language Models with Limited Data [[📝 Paper](https://arxiv.org/abs/2505.20347)] [[💻 Code](https://github.com/wantbook-book/SeRL)]
 
 
+- (*Arxiv'26*) Training Agents to Evolve with Their Harness: TaoLive Digital Avatar Agent Technical Report [[📝 Paper]](https://arxiv.org/abs/2608.15763)
+
 #### 1.1.2 📌 Test-Time Behaviour Optimisation 
 
 ##### (1) 🔧 Feedback-Based Approaches 
