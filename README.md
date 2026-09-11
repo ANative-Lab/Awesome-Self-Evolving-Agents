@@ -172,6 +172,7 @@
 - (*Arxiv'25*) Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement Learning [[📝 Paper](https://arxiv.org/abs/2505.16410)] [[💻 Code](https://github.com/RUC-NLPIR/Tool-Star)] 
 - (*Arxiv'25*) Agentic Reinforced Policy Optimization [[📝 Paper](https://arxiv.org/abs/2507.19849)] [[💻 Code](https://github.com/RUC-NLPIR/ARPO)]
 - (*Arxiv'25*) AutoTIR: Autonomous Tools Integrated Reasoning via Reinforcement Learning [[📝 Paper](https://arxiv.org/abs/2507.21836)] [[💻 Code](https://github.com/weiyifan1023/AutoTIR)]
+- (*Arxiv'26*) DRACO: Fine-Grained Credit Assignment with Dynamic Rubrics for Long-Horizon Agent Training [[📝 Paper](https://arxiv.org/abs/2609.04094)] [[💻 Code](https://github.com/IBM/draco)]
 
 
 #### 1.4.2 📌 Inference-Time Tool Optimisation 
