@@ -347,6 +347,7 @@ language model multi-agent framework [[📝 Paper](https://dl.acm.org/doi/10.100
 #### 4.1.3 📌 Coding Agents 
 - (*ICLR'24*) SWE-bench: Can Language Models Resolve Real-World GitHub Issues? [[📝 Paper](https://arxiv.org/abs/2310.06770)] [[💻 Code](https://github.com/SWE-bench/SWE-bench)]
 - (*ICLR'25*) Self-Evolving Multi-Agent Collaboration Networks for Software Development [[📝 Paper](https://openreview.net/forum?id=4R71pdPBZp)] [[💻 Code](https://github.com/yuzhu-cai/rSDE-Bench)] 
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril): Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops
 
 #### 4.1.4 Scientific Research Agents 
 - (*Arxiv'25*) DataSciBench: An LLM Agent Benchmark for Data Science [[📝 Paper](https://arxiv.org/abs/2502.13897)] [[💻 Code](https://github.com/THUDM/DataSciBench)]
