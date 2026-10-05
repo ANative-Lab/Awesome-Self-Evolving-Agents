@@ -39,6 +39,7 @@
 - (*EMNLP'25 Demo*) **EvoAgentX**: An Automated Framework for Evolving Agentic Workflows
  [[💻 Code](https://github.com/EvoAgentX/EvoAgentX)] [[📝 Paper](https://arxiv.org/abs/2507.03616)]
 - (*Arxiv'25*) MASLab: A Unified and Comprehensive Codebase for LLM-based Multi-Agent Systems [[📝 Paper](https://arxiv.org/abs/2505.16988)] [[💻 Code](https://github.com/MASWorks/MASLab)]
+- **OpenAmer**: Self-hosted Windows-native agent runtime with in-process cognition tools (think/learn/remember/trigger/heartbeat), a single 10-subsystem heartbeat that replaces a cron pile, and an A2A mesh for peer-to-peer work routing between instances. [[💻 Code](https://github.com/openamer/openamer)]
 
 
 ## 1. Single-Agent Optimisation 
