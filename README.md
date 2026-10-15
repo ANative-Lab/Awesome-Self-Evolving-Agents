@@ -356,6 +356,7 @@ language model multi-agent framework [[📝 Paper](https://dl.acm.org/doi/10.100
 - (*ICLR'24*) AgentBench: Evaluating LLMs as Agents [[📝 Paper](https://arxiv.org/abs/2308.03688)] [[💻 Code](https://github.com/THUDM/AgentBench)]
 - (*Arxiv'25*) MultiAgentBench: Evaluating the Collaboration and Competition of LLM agents [[📝 Paper](https://arxiv.org/abs/2503.01935)] [[💻 Code](https://github.com/MultiagentBench/MARBLE)]
 - (*Arxiv'25*) Benchmarking LLMs' Swarm intelligence [[📝 Paper](https://arxiv.org/abs/2505.04364)] [[💻 Code](https://github.com/RUC-GSAI/YuLan-SwarmIntell)]
+- (*Arxiv'26*) More Methods, Better Agents? A Reality Check on Self-Distillation in Agentic Reinforcement Learning [[📝 Paper](https://arxiv.org/abs/2610.19789)] [[💻 Code](https://github.com/aim-uofa/Self-Distillation-AgentRL)]
 
 #### 4.1.5 📌 GUI and Multimodal Environment Agents
 - (*ACL'24*) Mobile-Bench: An Evaluation Benchmark for LLM-based Mobile Agents [[📝 Paper](https://arxiv.org/abs/2407.00993)] [[💻 Code](https://github.com/XiaoMi/MobileBench)]
