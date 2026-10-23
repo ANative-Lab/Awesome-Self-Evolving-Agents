@@ -288,6 +288,7 @@ LLM Multi-Agent Collaboration [[📝 Paper](https://arxiv.org/pdf/2411.15692)]
 - (*ICLR'24*) Teaching Large Language Models to Self-Debug [[📝 Paper](https://arxiv.org/abs/2304.05128)]
 - (*ICA'24*) RGD: Multi-LLM based agent debugger via refinement and generation guidance. [[📝 Paper](https://arxiv.org/abs/2410.01242)]
 - (*Arxiv'25*) Large Language Model Guided Self-Debugging Code Generation [[📝 Paper](https://arxiv.org/abs/2502.02928)]
+- (*ICSE'27*) Learning from Repair Experience: Self-Evolving Agents for Automated Vulnerability Repair [[📝 Paper](https://arxiv.org/abs/2605.30105)] [[💻 Code](https://github.com/iSEngLab/Learn-from-Repair-Experience)]
 
 
 ### 3.3 Scientific Research 
