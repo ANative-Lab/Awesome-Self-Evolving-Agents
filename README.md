@@ -146,6 +146,7 @@
 - (*Arxiv'25*) Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory [[📝 Paper](https://arxiv.org/abs/2508.09736)] [[💻 Code](https://github.com/bytedance-seed/m3-agent)] 
 - (*Arxiv'25*) PersonaAgent: When Large Language Model Agents Meet Personalization at Test Time [[📝 Paper](https://arxiv.org/abs/2506.06254)]  
 - (*Arxiv'25*) ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory [[📝 Paper](https://arxiv.org/abs/2509.25140)]
+- (*Arxiv'26*) Who Remembers What? Multi-Granularity Memory Extraction for Multi-User, Multi-Agent Interaction [[📝 Paper](https://arxiv.org/abs/2611.10439)]
 
 ### 1.4 🧰 Tool Optimization
 
