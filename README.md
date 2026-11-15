@@ -40,6 +40,8 @@
  [[💻 Code](https://github.com/EvoAgentX/EvoAgentX)] [[📝 Paper](https://arxiv.org/abs/2507.03616)]
 - (*Arxiv'25*) MASLab: A Unified and Comprehensive Codebase for LLM-based Multi-Agent Systems [[📝 Paper](https://arxiv.org/abs/2505.16988)] [[💻 Code](https://github.com/MASWorks/MASLab)]
 
+- **No Stairs Please MCP**: Remote MCP server for [No Stairs Please](https://nostairsplease.com/), giving agents structured search over small live-music venues, capacities, and booking contacts across all 50 US states, DC, and BC [[🌐 MCP](https://nostairsplease.com/mcp)]
+
 
 ## 1. Single-Agent Optimisation 
 
