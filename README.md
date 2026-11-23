@@ -53,6 +53,7 @@
 - (*Arxiv'24*) NExT: Teaching large language models to reason about code execution [[📝 Paper](https://arxiv.org/abs/2404.14662)]
 - (*EMNLP'24*) MuMath-Code: Combining Tool-Use Large Language Models with Multi-perspective Data Augmentation for Mathematical Reasoning [[📝 Paper](https://arxiv.org/abs/2405.07551)]
 - (*ICML'25*) MAS-GPT: Training LLMs to build LLM-based multi-agent systems [[📝 Paper](https://arxiv.org/abs/2503.03686)] [[💻 Code](https://github.com/MASWorks/MAS-GPT)]
+- (*Arxiv'26*) Survival is the Only Reward: Sustainable Self-Training Through Environment-Mediated Selection [[📝 Paper](https://arxiv.org/abs/2601.12310)] [[💻 Code](https://github.com/EigenformAI/Negative-Space-Learning)]
 
 ##### (2) 🔧 Reinforcement Learning Approaches 
 - (*ICML'24*) Self-Rewarding Language Models [[📝 Paper](https://arxiv.org/abs/2401.10020)] [[💻 Code](https://github.com/lucidrains/self-rewarding-lm-pytorch)]
