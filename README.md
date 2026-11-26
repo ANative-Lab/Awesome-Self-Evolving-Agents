@@ -105,6 +105,7 @@
 - (*EACL'23*) GrIPS: Gradient-free, Edit-based Instruction Search for Prompting Large Language Models [[📝 Paper](https://arxiv.org/abs/2203.07281)] [[💻 Code](https://github.com/archiki/GrIPS)]
 - (*ICLR'23*) TEMPERA: Test-Time Prompting via Reinforcement Learning [[📝 Paper](https://arxiv.org/abs/2211.11890)] [[💻 Code](https://github.com/tianjunz/TEMPERA)]
 - (*ACL'24*) Plum: Prompt Learning using Metaheuristic [[📝 Paper](https://arxiv.org/abs/2311.08364)] [[💻 Code](https://github.com/research4pan/Plum)]
+- (*Arxiv'26*) SKILL-KD: Contrastive Skill Distillation for LLM Agents [[📝 Paper](https://arxiv.org/abs/2607.28048)] [[💻 Code](https://github.com/KhanCold/SKILL-KD)]
 
 #### 1.2.2 📌 Evolutionary Prompt Optimisation 
 - (*ICLR'24*) EvoPrompt: Connecting LLMs with Evolutionary Algorithms Yields Powerful Prompt Optimizers [[📝 Paper](https://arxiv.org/abs/2309.08532)] [[💻 Code](https://github.com/beeevita/EvoPrompt)]
